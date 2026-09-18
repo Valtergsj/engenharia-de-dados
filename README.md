@@ -209,8 +209,15 @@ O feedback precisa abordar:
 
 * **Username:** @mariiicld
 
-* **Descrição do perfil:** O perfil encontra-se em fase inicial de construção profissional, com foco no desenvolvimento de habilidades relacionadas à Tecnologia da Informação e, futuramente, à Engenharia de Dados.O perfil público do GitHub apresenta informações sobre a formação acadêmica e os interesses profissionais de Mariana Calderari na área de Tecnologia da Informação. O README.md destaca sua formação como Técnica em Desenvolvimento de Sistemas e estudante de Análise e Desenvolvimento de Sistemas, além de seu interesse pela área de Engenharia de Dados.
-O perfil também apresenta conhecimentos relacionados à programação, bancos de dados, APIs, integrações e ferramentas utilizadas em projetos de tecnologia.
+* **Descrição do perfil:**
+
+Este perfil está em constante construção e representa minha trajetória acadêmica e profissional na área de **Tecnologia da Informação**.
+
+Sou **Técnica em Desenvolvimento de Sistemas pela ETEC** e atualmente estudante de **Análise e Desenvolvimento de Sistemas na UNICID**.
+
+Tenho interesse em **Engenharia de Dados** e venho desenvolvendo conhecimentos em **programação, bancos de dados, APIs, integrações e ferramentas utilizadas em projetos de tecnologia**.
+
+Aqui, compartilho projetos acadêmicos e pessoais, além de experiências e aprendizados adquiridos ao longo da minha formação.
 
 * **Quantidade de seguidores:** 0
 
