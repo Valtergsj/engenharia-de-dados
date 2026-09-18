@@ -49,10 +49,12 @@ Fonte:
 | Hard Skill | Vaga 1 | Vaga 2 | Vaga 3 | Vaga 4 | Vaga 5 | Total |
 |---|---|---|---|---|---|---:|
 | SQL | ✓ | ✓ | ✓ | ✓ | ✓ | 5 |
-| Python | ✓ | ✓ | ✓ | ✓ | - | 4 |
-| Cloud | ✓ | ✓ | - | ✓ | ✓ | 4 |
-| ETL | ✓ | ✓ | ✓ | - | ✓ | 4 |
-| Git | ✓ | - | ✓ | ✓ | - | 3 |
+| Python | ✓ | ✓ | - | ✓ | ✓ | 4 |
+| Cloud (AWS / GCP / Azure)| - | - | ✓ | ✓ | ✓ | 3 |
+| DataBricks / Spark / PySpark | ✓ | - | ✓ | - | ✓ | 3 |
+| Power BI | ✓ | ✓ | - | - | - | 3 |
+| ETL / ELT / Pipelines | ✓ | - | ✓ | ✓ | ✓ | 4 | 
+| Data Warehouse / Modelagem | ✓ | ✓ | - | - | ✓ | 3 |
 
 ### 1.6.2 Soft Skills
 
