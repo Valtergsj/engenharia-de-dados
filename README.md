@@ -207,16 +207,31 @@ O feedback precisa abordar:
 # 3. Análise Individual - Mariana Calderari
 ## 3.1 Análise do GitHub
 
- - username
- - Descrição do perfil
- - Quantidade de repositórios públicos;
- - Repositórios fixados;
- - Repositório com maior número de estrelas;
- - Descrição dos principais projetos;
- - Tecnologias utilizadas nos projetos;
- - Quantidade de seguidores;
- - Evolução dos seguidores, caso seja possível verificar;
- - Participação/engajamento com a comunidade.
+* **Username:** @mariiicld
+
+* **Descrição do perfil:** O perfil encontra-se em fase inicial de construção profissional, com foco no desenvolvimento de habilidades relacionadas à Tecnologia da Informação e, futuramente, à Engenharia de Dados.
+
+* **Quantidade de repositórios públicos:** 1
+
+* **Repositórios fixados:** Organizador de Rotinas
+
+* **Repositório com maior número de estrelas:** Não há um repositório com número significativo de estrelas atualmente.
+
+* **Descrição dos principais projetos:** O principal projeto público disponível é o **Organizador de Rotinas**, desenvolvido em conjunto com outros integrantes. É um sistema que ajuda o usuário a organizar e consultar tarefas pelo Web Chat. O n8n processa e automatiza as informações, enquanto o Firebase armazena os dados. O projeto tem como objetivo facilitar a organização da rotina por meio de inteligência artificial e automação.
+
+* **Tecnologias utilizadas nos projetos:**
+
+  * Inteligência Artificial (IA)
+  * Web Chat
+  * n8n
+  * Firebase
+  * APIs e integrações entre serviços
+
+* **Quantidade de seguidores:** 0
+
+* **Evolução dos seguidores:** Por se tratar de um perfil em fase inicial, ainda não há histórico significativo de crescimento de seguidores para análise.
+
+* **Participação/engajamento com a comunidade:** Atualmente, minha participação na comunidade do GitHub ainda é pequena, principalmente por ter poucos projetos públicos. Como parte do meu desenvolvimento profissional, pretendo publicar mais projetos e participar de trabalhos colaborativos, aumentando aos poucos minha experiência e presença na plataforma.
 
 ## 3.1.1 Repositórios e Projetos
   
