@@ -35,11 +35,11 @@
 
 ## 1.5 Mapeamento de Vagas
 
- **- Empresa: Solo Recruiter – Cargo: Engenheiro de Dados – Nível: Sênior / Especialista – Salário: R$ 16.000.00 – Tecnologias: DataBricks, Spark, Python, SQL Server, Power BI, SAS, Lakehouse / Data Lake / Data Warehouse – Fonte: Glassdoor**
- **- Empresa: Geniale Trade Innovated – Cargo: Analista de Dados – Nível: Júnior a Pleno – Salário: R$ 4.000,00 – Tecnologias: Power BI, Excel, Python, Webhook, Linguagem M, DAX, MySQL, Data Warehouse (DW), Involves, Umove, CloseUp – Fonte: Linkedin**
- **- Empresa: Nava | Tech for Business – Cargo: Engenheiro(a) de Dados / Especialista em Plataforma de Dados – Nível: Pleno / Sênior / Especialista – Salário: R$ 12.000,00 a R$ 14.000,00 – Tecnologias: AWS (S3, Glue, EMR, Redshift, Lambda), Databricks, Spark, Apache Airflow, dbt, CI/CD, DevOps/DataOps – Fonte: Linkedin**
- **- Empresa: RD - Totvs – Cargo: Data Engineer – Nível: Pleno – Salário: Não informado – Tecnologias: GCP, BigQuery, Dataflow, Cloud Storage, SQL, Python, Airflow / Cloud Composer, APIs, Git, CI/CD – Fonte: Totvs**
- **- Empresa: TWE – Cargo: Engenheiro(a) de Dados – Nível: Assistente / Pleno – Salário: R$ 9.000,00 – Tecnologias: Azure (Data Factory, Databricks, ADLS Gen2, SQL Database, Key Vault), GCP, Python, PySpark, SQL, SSIS, Oracle, APIs REST, Arquitetura Medalhão, Data Warehouse – Fonte: Linkedin**
+ **- Empresa: Solo Recruiter – Cargo: Engenheiro de Dados – Nível: Sênior / Especialista – Salário: R$ 16.000.00 – Tecnologias: DataBricks, Spark, Python, SQL Server, Power BI, SAS, Lakehouse / Data Lake / Data Warehouse – Fonte: Glassdoor
+ - Empresa: Geniale Trade Innovated – Cargo: Analista de Dados – Nível: Júnior a Pleno – Salário: R$ 4.000,00 – Tecnologias: Power BI, Excel, Python, Webhook, Linguagem M, DAX, MySQL, Data Warehouse (DW), Involves, Umove, CloseUp – Fonte: Linkedin
+ - Empresa: Nava | Tech for Business – Cargo: Engenheiro(a) de Dados / Especialista em Plataforma de Dados – Nível: Pleno / Sênior / Especialista – Salário: R$ 12.000,00 a R$ 14.000,00 – Tecnologias: AWS (S3, Glue, EMR, Redshift, Lambda), Databricks, Spark, Apache Airflow, dbt, CI/CD, DevOps/DataOps – Fonte: Linkedin
+ - Empresa: RD - Totvs – Cargo: Data Engineer – Nível: Pleno – Salário: Não informado – Tecnologias: GCP, BigQuery, Dataflow, Cloud Storage, SQL, Python, Airflow / Cloud Composer, APIs, Git, CI/CD – Fonte: Totvs
+ - Empresa: TWE – Cargo: Engenheiro(a) de Dados – Nível: Assistente / Pleno – Salário: R$ 9.000,00 – Tecnologias: Azure (Data Factory, Databricks, ADLS Gen2, SQL Database, Key Vault), GCP, Python, PySpark, SQL, SSIS, Oracle, APIs REST, Arquitetura Medalhão, Data Warehouse – Fonte: Linkedin**
 
 ## 1.6 Mapeamento de Competências
 
