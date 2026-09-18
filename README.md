@@ -446,3 +446,48 @@ O feedback precisa abordar:
 ### Feedback Ana Julia: 
 
 ### Feedback Mariana:
+
+# 5. Conclusão - Análise de Gaps e Plano de Ação
+
+## 5.1 Análise Conjunta
+
+Falar sobre:
+ - Situação atual dos três integrantes;
+ - Pontos em comum;
+ - Diferenças entre os perfis;
+ - Competências já desenvolvidas;
+ - Competências que ainda precisam ser desenvolvidas.
+
+## 5.2 Comparação com o Mercado
+
+Comparar os perfis dos integrantes com o que foi encontrado na introdução.
+Por exemplo:
+Mercado exige → integrante possui → integrante precisa desenvolver.
+
+## 5.3 Identificação dos Gaps
+
+Mostrar o que falta para cada integrante se aproximar das exigências do mercado.
+
+Exemplo de estrutura:
+ - Ana Julia
+  Gap técnico: ...
+  Gap comportamental: ...
+  Gap de portfólio: ...
+
+ - Mariana
+  Gap técnico: ...
+  Gap comportamental: ...
+  Gap de portfólio: ...
+
+ - Valter
+  Gap técnico: ...
+  Gap comportamental: ...
+  Gap de portfólio: ...
+
+## 5.4 Plano de Ação
+
+Sugestões de práticas e individualizadas para eliminar os gaps e alcançar alinhamento com o mercado.
+
+Por exemplo:
+
+Integrante → Gap → Ação → Prazo → Indicador
