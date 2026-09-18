@@ -253,7 +253,7 @@ O projeto contribuiu para o desenvolvimento de conhecimentos relacionados ao pro
 
 - Estrelas: [0]
 
-- Repositório: [inserir link]
+- Repositório: [https://github.com/mariiicld/organizador-de-rotina]
 
 ## 3.2 Análise do Linkedin
 
