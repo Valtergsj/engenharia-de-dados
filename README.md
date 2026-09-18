@@ -58,6 +58,16 @@ Fonte:
 
 ### 1.6.2 Soft Skills
 
+| Soft Skill | Vaga 1 | Vaga 2 | Vaga 3 | Vaga 4 | Vaga 5 | Total |
+|---|---|---|---|---|---|---:|
+| Comunicação / Perfil Relacional | ✓ | ✓ | - | ✓ | ✓ | 4 |
+| Liderança técnica / Mentoria / Influência | ✓ | - | ✓ | - | - | 2 |
+| Visão de Negócio / Foco em resultados| ✓ | ✓ | - | ✓ | ✓ | 4 |
+| Trabalho em equipe / Colaboração | - | - | ✓ | ✓ | ✓ | 3 |
+| Resolução de Problemas / Perfil Analítico | ✓ | ✓ | - | - | - | 2 |
+| Autonomia / Proatividade | - | ✓ | - | - | ✓ | 2 | 
+| Adaptabilidade / Dinamismo | ✓ | - | - | - | ✓ | 2 |
+
 # 2. Análise Individual - Ana Julia
 ## 2.1 Análise do GitHub
 
