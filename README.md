@@ -35,11 +35,15 @@
 
 ## 1.5 Mapeamento de Vagas
 
- - Empresa: Solo Recruiter – Cargo: Engenheiro de Dados – Nível: Sênior / Especialista – Salário: R$ 16.000.00 – Tecnologias: DataBricks, Spark, Python, SQL Server, Power BI, SAS, Lakehouse / Data Lake / Data Warehouse – Fonte: Glassdoor
- - Empresa: Geniale Trade Innovated – Cargo: Analista de Dados – Nível: Júnior a Pleno – Salário: R$ 4.000,00 – Tecnologias: Power BI, Excel, Python, Webhook, Linguagem M, DAX, MySQL, Data Warehouse (DW), Involves, Umove, CloseUp – Fonte: Linkedin
- - Empresa: Nava | Tech for Business – Cargo: Engenheiro(a) de Dados / Especialista em Plataforma de Dados – Nível: Pleno / Sênior / Especialista – Salário: R$ 12.000,00 a R$ 14.000,00 – Tecnologias: AWS (S3, Glue, EMR, Redshift, Lambda), Databricks, Spark, Apache Airflow, dbt, CI/CD, DevOps/DataOps – Fonte: Linkedin
- - Empresa: RD - Totvs – Cargo: Data Engineer – Nível: Pleno – Salário: Não informado – Tecnologias: GCP, BigQuery, Dataflow, Cloud Storage, SQL, Python, Airflow / Cloud Composer, APIs, Git, CI/CD – Fonte: Totvs
- - Empresa: TWE – Cargo: Engenheiro(a) de Dados – Nível: Assistente / Pleno – Salário: R$ 9.000,00 – Tecnologias: Azure (Data Factory, Databricks, ADLS Gen2, SQL Database, Key Vault), GCP, Python, PySpark, SQL, SSIS, Oracle, APIs REST, Arquitetura Medalhão, Data Warehouse – Fonte: Linkedin
+ ## 1.5 Mapeamento de Vagas
+
+| Empresa | Cargo | Nível | Salário | Tecnologias | Fonte |
+|---|---|---|---|---|---|
+| Solo Recruiter | Engenheiro de Dados | Sênior / Especialista | R$ 16.000,00 | Databricks, Spark, Python, SQL Server, Power BI, SAS, Lakehouse, Data Lake e Data Warehouse | Glassdoor |
+| Geniale Trade Innovated | Analista de Dados | Júnior a Pleno | R$ 4.000,00 | Power BI, Excel, Python, Webhook, Linguagem M, DAX, MySQL, Data Warehouse (DW), Involves, Umove e CloseUp | LinkedIn |
+| Nava \| Tech for Business | Engenheiro(a) de Dados / Especialista em Plataforma de Dados | Pleno / Sênior / Especialista | R$ 12.000,00 a R$ 14.000,00 | AWS (S3, Glue, EMR, Redshift e Lambda), Databricks, Spark, Apache Airflow, dbt, CI/CD, DevOps e DataOps | LinkedIn |
+| RD - TOTVS | Data Engineer | Pleno | Não informado | GCP, BigQuery, Dataflow, Cloud Storage, SQL, Python, Airflow / Cloud Composer, APIs, Git e CI/CD | TOTVS |
+| TWE | Engenheiro(a) de Dados | Assistente / Pleno | R$ 9.000,00 | Azure (Data Factory, Databricks, ADLS Gen2, SQL Database e Key Vault), GCP, Python, PySpark, SQL, SSIS, Oracle, APIs REST, Arquitetura Medalhão e Data Warehouse | LinkedIn |
 
 ## 1.6 Mapeamento de Competências
 
@@ -52,7 +56,7 @@
 | Python | ✓ | ✓ | - | ✓ | ✓ | 4 |
 | Cloud (AWS / GCP / Azure)| - | - | ✓ | ✓ | ✓ | 3 |
 | DataBricks / Spark / PySpark | ✓ | - | ✓ | - | ✓ | 3 |
-| Power BI | ✓ | ✓ | - | - | - | 3 |
+| Power BI | ✓ | ✓ | - | - | - | 2 |
 | ETL / ELT / Pipelines | ✓ | - | ✓ | ✓ | ✓ | 4 | 
 | Data Warehouse / Modelagem | ✓ | ✓ | - | - | ✓ | 3 |
 
