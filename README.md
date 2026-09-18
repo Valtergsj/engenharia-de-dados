@@ -46,7 +46,7 @@ Fonte:
 ### 1.6.1 Hard Skills
 
 
-| Hard Skill | Vaga 1 | Vaga 2 | Vaga 3 | Vaga 4 | Vaga 5 | Total |
+| Hard Skills | Vaga 1 | Vaga 2 | Vaga 3 | Vaga 4 | Vaga 5 | Total |
 |---|---|---|---|---|---|---:|
 | SQL | ✓ | ✓ | ✓ | ✓ | ✓ | 5 |
 | Python | ✓ | ✓ | - | ✓ | ✓ | 4 |
@@ -58,7 +58,7 @@ Fonte:
 
 ### 1.6.2 Soft Skills
 
-| Soft Skill | Vaga 1 | Vaga 2 | Vaga 3 | Vaga 4 | Vaga 5 | Total |
+| Soft Skills | Vaga 1 | Vaga 2 | Vaga 3 | Vaga 4 | Vaga 5 | Total |
 |---|---|---|---|---|---|---:|
 | Comunicação / Perfil Relacional | ✓ | ✓ | - | ✓ | ✓ | 4 |
 | Liderança técnica / Mentoria / Influência | ✓ | - | ✓ | - | - | 2 |
