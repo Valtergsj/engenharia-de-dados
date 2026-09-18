@@ -33,8 +33,6 @@
  - Crescimento :?
  - Perspectivas profissionais :?
 
-## 1.5 Mapeamento de Vagas
-
  ## 1.5 Mapeamento de Vagas
 
 | Empresa | Cargo | Nível | Salário | Tecnologias | Fonte |
