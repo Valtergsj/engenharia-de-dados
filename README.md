@@ -308,14 +308,59 @@ O perfil já apresenta projetos relacionados à tecnologia, como **Organizador d
 
 ## 3.3 Instagram Profissional
 
-Verificar:
- - Bio;
- - Foto de perfil;
- - Informações profissionais;
- - Conteúdo publicado;
- - Se existe conteúdo relacionado à tecnologia;
- - Se o perfil transmite uma imagem profissional;
- - Se existe alinhamento entre Instagram e objetivo de carreira.
+### 2.3.1 Bio
+
+A bio do perfil apresenta informações relacionadas à formação e ao objetivo profissional:
+
+> Estudante de ADS • UNICID  
+> Técnica em Desenvolvimento de Sistemas  
+> Foco em Engenharia de Dados  
+> Python • SQL • Banco de Dados
+
+A descrição apresenta de forma objetiva a formação acadêmica, a formação técnica e o direcionamento profissional para a área de Engenharia de Dados. Também destaca conhecimentos técnicos relacionados à área, como Python, SQL e Banco de Dados.
+
+### 2.3.2 Foto de Perfil
+
+### 2.3.3 Informações Profissionais
+
+O perfil apresenta informações profissionais diretamente relacionadas à área de Tecnologia da Informação. São destacados:
+
+- Estudante de Análise e Desenvolvimento de Sistemas na UNICID;
+- Técnica em Desenvolvimento de Sistemas;
+- Interesse em Engenharia de Dados;
+- Conhecimentos em Python;
+- Conhecimentos em SQL;
+- Conhecimentos em Banco de Dados.
+
+Essas informações estão relacionadas ao objetivo de carreira definido para a área de Engenharia de Dados.
+
+### 2.3.4 Conteúdo Publicado
+
+No momento da análise, o perfil possui **0 publicações**.
+
+Como o perfil foi criado recentemente, ainda não há conteúdo publicado para avaliação de frequência, qualidade ou variedade.
+
+### 2.3.5 Conteúdo Relacionado à Tecnologia
+
+Atualmente, não existem publicações relacionadas à Tecnologia da Informação, pois o perfil ainda não possui conteúdos publicados.
+
+Apesar disso, a bio apresenta elementos relacionados à tecnologia, como **Engenharia de Dados, Python, SQL e Banco de Dados**, demonstrando o direcionamento profissional pretendido.
+
+### 2.3.6 Imagem Profissional
+
+O perfil apresenta uma proposta profissional por meio da bio, que informa a formação, as competências técnicas e o objetivo de atuação em Engenharia de Dados.
+
+Entretanto, como o perfil ainda está em fase inicial, com **0 publicações e 0 seguidores**, sua presença profissional na plataforma ainda está sendo construída.
+
+A criação de conteúdos relacionados a projetos, estudos, cursos e conhecimentos técnicos pode contribuir para fortalecer a apresentação profissional do perfil.
+
+### 2.3.7 Alinhamento com o Objetivo de Carreira
+
+Existe alinhamento entre o perfil do Instagram e o objetivo de carreira em Engenharia de Dados.
+
+A bio apresenta diretamente o **foco em Engenharia de Dados** e destaca tecnologias relevantes para essa área, como **Python, SQL e Banco de Dados**. Além disso, a formação em Análise e Desenvolvimento de Sistemas e o curso técnico em Desenvolvimento de Sistemas estão relacionados à área de Tecnologia da Informação.
+
+No entanto, como ainda não existem publicações, o alinhamento está atualmente concentrado nas informações apresentadas na bio. A publicação de conteúdos relacionados aos estudos, projetos e evolução profissional poderá reforçar esse posicionamento ao longo do tempo.
 
 ## 3.4 Outras Redes e Portfólio
 
