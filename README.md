@@ -209,23 +209,8 @@ O feedback precisa abordar:
 
 * **Username:** @mariiicld
 
-* **Descrição do perfil:** O perfil encontra-se em fase inicial de construção profissional, com foco no desenvolvimento de habilidades relacionadas à Tecnologia da Informação e, futuramente, à Engenharia de Dados.
-
-* **Quantidade de repositórios públicos:** 1
-
-* **Repositórios fixados:** Organizador de Rotinas
-
-* **Repositório com maior número de estrelas:** Não há um repositório com número significativo de estrelas atualmente.
-
-* **Descrição dos principais projetos:** O principal projeto público disponível é o **Organizador de Rotinas**, desenvolvido em conjunto com outros integrantes. É um sistema que ajuda o usuário a organizar e consultar tarefas pelo Web Chat. O n8n processa e automatiza as informações, enquanto o Firebase armazena os dados. O projeto tem como objetivo facilitar a organização da rotina por meio de inteligência artificial e automação.
-
-* **Tecnologias utilizadas nos projetos:**
-
-  * Inteligência Artificial (IA)
-  * Web Chat
-  * n8n
-  * Firebase
-  * APIs e integrações entre serviços
+* **Descrição do perfil:** O perfil encontra-se em fase inicial de construção profissional, com foco no desenvolvimento de habilidades relacionadas à Tecnologia da Informação e, futuramente, à Engenharia de Dados.O perfil público do GitHub apresenta informações sobre a formação acadêmica e os interesses profissionais de Mariana Calderari na área de Tecnologia da Informação. O README.md destaca sua formação como Técnica em Desenvolvimento de Sistemas e estudante de Análise e Desenvolvimento de Sistemas, além de seu interesse pela área de Engenharia de Dados.
+O perfil também apresenta conhecimentos relacionados à programação, bancos de dados, APIs, integrações e ferramentas utilizadas em projetos de tecnologia.
 
 * **Quantidade de seguidores:** 0
 
