@@ -227,12 +227,33 @@ Aqui, compartilho projetos acadêmicos e pessoais, além de experiências e apre
 
 ## 3.1.1 Repositórios e Projetos
   
- - Nome do projeto;
- - Objetivo;
- - Tecnologias utilizadas;
- - O que foi desenvolvido;
- - Qual a contribuição do projeto para a carreira em Engenharia de Dados;
- - Quantidade de estrelas, forks ou outras informações relevantes.
+### Organizador de Rotinas com IA
+
+**Objetivo:**  
+
+Desenvolver um sistema capaz de auxiliar os usuários na organização de tarefas e rotinas por meio de inteligência artificial e automação.
+
+**Tecnologias utilizadas:**  
+
+* Web Chat
+* n8n
+* Firebase
+* Inteligência Artificial
+* APIs e integrações
+
+**O que foi desenvolvido:**  
+
+Foi desenvolvido um sistema integrado ao Web Chat, no qual o usuário pode cadastrar e consultar tarefas. O n8n é responsável pelo processamento e automação das informações, enquanto o Firebase realiza o armazenamento dos dados.
+
+**Contribuição para a carreira em Engenharia de Dados:**  
+
+O projeto contribuiu para o desenvolvimento de conhecimentos relacionados ao processamento, organização e armazenamento de dados, além da integração entre diferentes serviços e automações. Essas experiências estão relacionadas a atividades da Engenharia de Dados, como integração de sistemas, manipulação de dados e construção de fluxos automatizados.
+
+**Informações do repositório:**  
+
+- Estrelas: [0]
+
+- Repositório: [inserir link]
 
 ## 3.2 Análise do Linkedin
 
