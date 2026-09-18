@@ -300,16 +300,11 @@ O título apresenta alinhamento com o objetivo profissional indicado no perfil, 
 
 ## 3.2.2 Crescimento e Atividade
 
-Colocar:
- - Quantidade de conexões/seguidores;
- - Crescimento da rede, quando possível;
- - Frequência de publicações;
- - Tipos de conteúdo publicados;
- - Curtidas;
- - Comentários;
- - Compartilhamentos;
- - Participação em assuntos relacionados à tecnologia;
- - Engajamento profissional.
+No momento da análise, o perfil informa que **ainda não foram realizadas publicações**. Dessa forma, a frequência de publicações e o engajamento gerado por conteúdos próprios ainda são inexistentes.
+
+A ausência de publicações indica uma presença ainda inicial na plataforma em relação à produção de conteúdo. Como forma de desenvolver a presença profissional, podem ser realizadas publicações relacionadas aos estudos, projetos acadêmicos, desenvolvimento de habilidades técnicas e experiências com tecnologias da área de Engenharia de Dados.
+
+O perfil já apresenta projetos relacionados à tecnologia, como **Organizador de Rotinas com IA**, **Monitoramento da Água com Arduino** e **Sistema de Cinema Online**, que podem ser utilizados futuramente para demonstrar conhecimentos e compartilhar experiências profissionais e acadêmicas.
 
 ## 3.3 Instagram Profissional
 
