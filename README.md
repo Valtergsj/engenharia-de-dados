@@ -19,6 +19,7 @@
  - Armazenamento; 
  - Pipelines;
  - Integração de Dados;
+ - Processamento de Dados;
 
 ## 1.3 Importância da Engenharia de Dados
 
@@ -42,8 +43,9 @@ Fonte:
 
 ## 1.6 Mapeamento de Competências
 
- - Hard Skills :?
- - Soft Skills :?
+### 1.6.1 Hard Skills
+
+### 1.6.2 Soft Skills
 
 # 2. Análise Individual - Ana Julia
 ## 2.1 Análise do GitHub
