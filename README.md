@@ -45,6 +45,15 @@ Fonte:
 
 ### 1.6.1 Hard Skills
 
+
+| Hard Skill | Vaga 1 | Vaga 2 | Vaga 3 | Vaga 4 | Vaga 5 | Total |
+|---|---|---|---|---|---|---:|
+| SQL | ✓ | ✓ | ✓ | ✓ | ✓ | 5 |
+| Python | ✓ | ✓ | ✓ | ✓ | - | 4 |
+| Cloud | ✓ | ✓ | - | ✓ | ✓ | 4 |
+| ETL | ✓ | ✓ | ✓ | - | ✓ | 4 |
+| Git | ✓ | - | ✓ | ✓ | - | 3 |
+
 ### 1.6.2 Soft Skills
 
 # 2. Análise Individual - Ana Julia
