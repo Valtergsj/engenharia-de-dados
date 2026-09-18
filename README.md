@@ -257,22 +257,46 @@ O projeto contribuiu para o desenvolvimento de conhecimentos relacionados ao pro
 
 ## 3.2 Análise do Linkedin
 
- - Área profissional desejada;
- - Cargo que pretende alcançar;
- - Stack/tecnologias de interesse;
- - Nível profissional atual;
- - Experiências profissionais;
- - Formação;
- - Cursos e certificações, se houver.
+ **Área profissional desejada:**  
+Engenharia de Dados.
+
+**Cargo que pretende alcançar:**  
+Engenheira de Dados.
+
+**Stack / tecnologias de interesse:**  
+Python, SQL, ETL, Modelagem de Dados, Banco de Dados, APIs, Git, GitHub e Automação.
+
+**Nível profissional atual:**  
+Estudante de Análise e Desenvolvimento de Sistemas e profissional em início de carreira.
+
+**Experiências profissionais:**  
+- **Auxiliar Administrativo — Digital Point**
+  - Período: junho de 2024 a outubro de 2025.
+  - Modalidade: remoto.
+  - Experiência profissional realizada na modalidade de estágio, com atividades relacionadas à área administrativa e tecnologia.
+
+**Formação:**  
+- **Análise e Desenvolvimento de Sistemas — Universidade Cidade de São Paulo (UNICID)**
+  - Período: janeiro de 2026 a dezembro de 2027.
+- **Técnico em Desenvolvimento de Sistemas — ETEC - Escola Técnica Estadual de São Paulo**
+  - Período: 2023 a 2025.
+
+**Cursos:**  
+- **Análise de Dados no Power BI (Fundação Bradesco)** — 2026.
+- **Fluência em Inteligência Artificial (Fundação Bradesco)** — 2026.
 
 ## 3.2.1 Headline Profissional
 
-Verificar:
- - Se deixa clara a área profissional;
- - Se informa o cargo desejado;
- - Se utiliza palavras-chave importantes;
- - Se está alinhado com Engenharia de Dados;
- - Se facilita que recrutadores encontrem o perfil.
+O Headline apresentado no perfil é:
+
+> Engenharia de Dados | SQL, Python, ETL & Modelagem de Dados | Estudante de Análise e Desenvolvimento de Sistemas
+
+O título apresenta de forma clara a área profissional de interesse e utiliza palavras-chave relacionadas à Engenharia de Dados, como **SQL, Python, ETL e Modelagem de Dados**.
+
+A utilização dessas palavras-chave contribui para identificar rapidamente a área de atuação pretendida e os principais conhecimentos técnicos da estudante. Além disso, o Headline informa que é estudante de Análise e Desenvolvimento de Sistemas, deixando claro que está em processo de formação profissional.
+
+O título apresenta alinhamento com o objetivo profissional indicado no perfil, que é direcionar a carreira para a área de Engenharia de Dados e buscar oportunidades de estágio ou posições iniciais.
+
 
 ## 3.2.2 Crescimento e Atividade
 
