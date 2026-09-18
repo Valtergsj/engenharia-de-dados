@@ -355,7 +355,7 @@ Verificar:
  - Se está alinhado com Engenharia de Dados;
  - Se facilita que recrutadores encontrem o perfil.
 
-## 4.2.1 Crescimento e Atividade
+## 4.2.2 Crescimento e Atividade
 
 Colocar:
  - Quantidade de conexões/seguidores;
