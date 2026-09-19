@@ -377,6 +377,19 @@ O portfólio funciona como uma apresentação profissional dos conhecimentos e p
 **Status de atualização:**  
 Atualizado de acordo com o momento atual da formação acadêmica e do desenvolvimento profissional.
 
+**Plataforma:** GitLab
+
+**Link:** [Perfil no GitLab](https://gitlab.com/marianacalderari45)
+
+**O que possui publicado:**  
+Atualmente, o perfil possui o projeto **Organizador de Rotinas com IA**, desenvolvido com recursos de inteligência artificial, n8n, Firebase e integrações entre serviços.
+
+**Como contribui para a carreira:**  
+O projeto contribui para a apresentação do perfil profissional ao demonstrar conhecimentos práticos relacionados à automação, integração de serviços, inteligência artificial e desenvolvimento de soluções tecnológicas.
+
+**Status de atualização:**  
+O perfil está em desenvolvimento e poderá receber novos projetos conforme a evolução acadêmica e profissional.
+
 ## 3.5 Plano de Carreira
 
 ### Curto Prazo - 6 a 12 Meses
