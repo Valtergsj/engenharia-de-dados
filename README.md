@@ -404,7 +404,7 @@ No curto prazo, o principal objetivo é construir uma base técnica sólida para
 - Desenvolver conhecimentos em **Armazenamento de Dados**, incluindo bancos de dados, Data Warehouse e diferentes formas de organização e armazenamento de informações;
 - Iniciar e desenvolver conhecimentos em **Computação em Nuvem**, principalmente em plataformas e serviços voltados para dados;
 - Criar projetos práticos utilizando Python, SQL, bancos de dados, APIs e ferramentas relacionadas ao processamento de dados;
-- Continuar desenvolvendo o projeto **Organizador de Rotinas com IA** e adicionar novos projetos ao GitHub, GitLab e portfólio;
+- Adicionar novos projetos ao GitHub, GitLab e portfólio;
 - Realizar cursos complementares relacionados aos principais focos técnicos;
 - Melhorar e manter atualizados os perfis do **GitHub, GitLab, LinkedIn, Instagram profissional e portfólio**;
 - Buscar uma oportunidade de **estágio ou primeira experiência profissional** na área de Tecnologia da Informação, preferencialmente relacionada a dados.
