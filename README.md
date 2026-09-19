@@ -443,9 +443,29 @@ No longo prazo, o objetivo é consolidar a carreira como **Engenheira de Dados**
 
 ## 3.6 PDI - Plano de Desenvolvimento Individual
 
- - Objetivo - Ação - Prazo - Indicador de progresso
+### 3.6.1 Desenvolvimento de Hard Skills
 
-(Exemplo: Estudar Python durante 4 meses e desenvolver um projeto utilizando a linguagem até determinada data.)
+| Objetivo | Ação | Prazo | Indicador de progresso |
+|---|---|---|---|
+| Desenvolver conhecimentos em Python | Estudar Python com foco em lógica de programação, manipulação de dados e automação, realizando exercícios e projetos práticos | 4 meses | Concluir os conteúdos estudados e desenvolver pelo menos 1 projeto utilizando Python |
+| Aprofundar conhecimentos em SQL | Estudar consultas, filtros, joins, funções, agrupamentos, subconsultas e manipulação de bancos de dados | 4 meses | Conseguir desenvolver consultas SQL de forma independente e aplicar os conhecimentos em pelo menos 1 projeto |
+| Aprender Processamento de Dados | Estudar técnicas de limpeza, tratamento, transformação e processamento de dados utilizando Python e SQL | 6 meses | Desenvolver pelo menos 1 projeto envolvendo tratamento e transformação de um conjunto de dados |
+| Desenvolver conhecimentos em Armazenamento de Dados | Estudar bancos de dados, modelagem, Data Warehouse e diferentes formas de armazenamento de dados | 6 meses | Criar pelo menos 1 projeto utilizando banco de dados e documentar sua estrutura e modelagem |
+| Desenvolver conhecimentos em Computação em Nuvem | Estudar conceitos de Cloud Computing e plataformas voltadas para armazenamento e processamento de dados | 8 meses | Concluir pelo menos 1 curso sobre Cloud e realizar uma prática utilizando um serviço de nuvem |
+| Aprimorar conhecimentos em Engenharia de Dados | Estudar conceitos de ETL/ELT, pipelines e ferramentas utilizadas na área de dados | 12 meses | Desenvolver pelo menos 1 projeto envolvendo um fluxo completo de dados |
+| Ampliar o portfólio técnico | Adicionar novos projetos ao GitHub, GitLab e portfólio do Notion, priorizando projetos relacionados a dados | 12 meses | Publicar pelo menos 3 novos projetos e manter os respectivos READMEs atualizados |
+| Buscar certificações e cursos técnicos | Realizar cursos relacionados a Python, SQL, Cloud e Engenharia de Dados | 12 meses | Concluir pelo menos 3 cursos e adicionar os certificados ao portfólio e LinkedIn |
+
+### 3.6.2 Desenvolvimento de Soft Skills
+
+| Objetivo | Ação | Prazo | Indicador de progresso |
+|---|---|---|---|
+| Melhorar a comunicação | Praticar apresentações de projetos e explicar conceitos técnicos de forma clara e objetiva | 6 meses | Realizar pelo menos 3 apresentações e receber feedback sobre a comunicação |
+| Desenvolver trabalho em equipe | Participar ativamente de projetos acadêmicos e profissionais realizados em grupo | 12 meses | Participar de pelo menos 2 projetos em equipe e receber feedback dos integrantes |
+| Desenvolver organização e gestão de tempo | Organizar estudos, projetos e atividades por meio de uma rotina de planejamento semanal | 6 meses | Manter um planejamento semanal e acompanhar o cumprimento das atividades |
+| Desenvolver proatividade | Buscar novos conhecimentos, projetos, cursos e oportunidades relacionadas à área de Tecnologia | 12 meses | Realizar cursos, desenvolver projetos e participar regularmente de oportunidades profissionais |
+| Melhorar a resolução de problemas | Praticar a resolução de problemas durante exercícios de programação e desenvolvimento de projetos | 12 meses | Resolver problemas de forma mais independente e registrar a evolução durante os projetos |
+| Desenvolver adaptabilidade | Estudar diferentes ferramentas e tecnologias e adaptar-se a novas situações durante projetos acadêmicos e profissionais | 12 meses | Utilizar novas ferramentas em projetos e demonstrar autonomia para aprender tecnologias desconhecidas |
 
 ## 3.7 Feedback por Pares
 
