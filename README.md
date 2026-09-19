@@ -308,7 +308,7 @@ O perfil já apresenta projetos relacionados à tecnologia, como **Organizador d
 
 ## 3.3 Instagram Profissional
 
-### 2.3.1 Bio
+### 3.3.1 Bio
 
 A bio do perfil apresenta informações relacionadas à formação e ao objetivo profissional:
 
@@ -319,9 +319,9 @@ A bio do perfil apresenta informações relacionadas à formação e ao objetivo
 
 A descrição apresenta de forma objetiva a formação acadêmica, a formação técnica e o direcionamento profissional para a área de Engenharia de Dados. Também destaca conhecimentos técnicos relacionados à área, como Python, SQL e Banco de Dados.
 
-### 2.3.2 Foto de Perfil
+### 3.3.2 Foto de Perfil
 
-### 2.3.3 Informações Profissionais
+### 3.3.3 Informações Profissionais
 
 O perfil apresenta informações profissionais diretamente relacionadas à área de Tecnologia da Informação. São destacados:
 
@@ -334,19 +334,19 @@ O perfil apresenta informações profissionais diretamente relacionadas à área
 
 Essas informações estão relacionadas ao objetivo de carreira definido para a área de Engenharia de Dados.
 
-### 2.3.4 Conteúdo Publicado
+### 3.3.4 Conteúdo Publicado
 
 No momento da análise, o perfil possui **0 publicações**.
 
 Como o perfil foi criado recentemente, ainda não há conteúdo publicado para avaliação de frequência, qualidade ou variedade.
 
-### 2.3.5 Conteúdo Relacionado à Tecnologia
+### 3.3.5 Conteúdo Relacionado à Tecnologia
 
 Atualmente, não existem publicações relacionadas à Tecnologia da Informação, pois o perfil ainda não possui conteúdos publicados.
 
 Apesar disso, a bio apresenta elementos relacionados à tecnologia, como **Engenharia de Dados, Python, SQL e Banco de Dados**, demonstrando o direcionamento profissional pretendido.
 
-### 2.3.6 Imagem Profissional
+### 3.3.6 Imagem Profissional
 
 O perfil apresenta uma proposta profissional por meio da bio, que informa a formação, as competências técnicas e o objetivo de atuação em Engenharia de Dados.
 
@@ -354,7 +354,7 @@ Entretanto, como o perfil ainda está em fase inicial, com **0 publicações e 0
 
 A criação de conteúdos relacionados a projetos, estudos, cursos e conhecimentos técnicos pode contribuir para fortalecer a apresentação profissional do perfil.
 
-### 2.3.7 Alinhamento com o Objetivo de Carreira
+### 3.3.7 Alinhamento com o Objetivo de Carreira
 
 Existe alinhamento entre o perfil do Instagram e o objetivo de carreira em Engenharia de Dados.
 
@@ -364,21 +364,18 @@ No entanto, como ainda não existem publicações, o alinhamento está atualment
 
 ## 3.4 Outras Redes e Portfólio
 
-Exemplos:
- - Dev.to;
- - Medium;
- - Substack;
- - Behance;
- - Notion;
- - Portfólio próprio;
- - Outras plataformas profissionais.
+**Plataforma:** Notion
 
-Para cada uma:
- - Qual plataforma;
- - Link;
- - O que possui publicado;
- - Como contribui para a carreira;
- - Se está atualizada.
+**Link:** [Portfólio Profissional — Mariana Calderari](https://modern-tv-b9e.notion.site/MARIANA-CALDERARI-PORTF-LIO-PROFISSIONAL-3dfcebd7bca78017803fcd810aedd3c9?pvs=73)
+
+**O que possui publicado:**  
+Portfólio profissional desenvolvido para apresentar informações sobre a formação acadêmica, conhecimentos técnicos, projetos e direcionamento profissional na área de Tecnologia da Informação e Engenharia de Dados.
+
+**Como contribui para a carreira:**  
+O portfólio funciona como uma apresentação profissional dos conhecimentos e projetos desenvolvidos, permitindo reunir informações acadêmicas e profissionais em um único espaço. Também facilita o acesso de recrutadores e profissionais da área às informações sobre a trajetória e as competências da estudante.
+
+**Status de atualização:**  
+Atualizado de acordo com o momento atual da formação acadêmica e do desenvolvimento profissional.
 
 ## 3.5 Plano de Carreira
 
