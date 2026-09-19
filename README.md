@@ -377,6 +377,8 @@ O portfólio funciona como uma apresentação profissional dos conhecimentos e p
 **Status de atualização:**  
 Atualizado de acordo com o momento atual da formação acadêmica e do desenvolvimento profissional.
 
+---
+
 **Plataforma:** GitLab
 
 **Link:** [Perfil no GitLab](https://gitlab.com/marianacalderari45)
