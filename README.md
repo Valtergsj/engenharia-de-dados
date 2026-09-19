@@ -394,29 +394,52 @@ O perfil está em desenvolvimento e poderá receber novos projetos conforme a ev
 
 ### Curto Prazo - 6 a 12 Meses
 
-Objetivos :?
- - Aprender determinada tecnologia;
- - Melhorar GitHub;
- - Melhorar LinkedIn;
- - Fazer cursos;
- - Criar projetos;
- - Buscar estágio/primeira oportunidade.
+No curto prazo, o principal objetivo é construir uma base técnica sólida para iniciar a trajetória na área de Engenharia de Dados. Os principais focos serão **Programação com Python, SQL, Processamento de Dados, Armazenamento de Dados e Computação em Nuvem, com foco em plataformas de dados**.
+
+**Objetivos:**
+
+- Aprofundar os conhecimentos em **Programação, principalmente Python**, desenvolvendo a capacidade de criar soluções para manipulação, tratamento e processamento de dados;
+- Aprofundar os conhecimentos em **SQL**, com foco em consultas, manipulação de dados, criação e utilização de bancos de dados;
+- Estudar **Processamento de Dados**, compreendendo técnicas e ferramentas utilizadas para tratar, transformar e preparar dados;
+- Desenvolver conhecimentos em **Armazenamento de Dados**, incluindo bancos de dados, Data Warehouse e diferentes formas de organização e armazenamento de informações;
+- Iniciar e desenvolver conhecimentos em **Computação em Nuvem**, principalmente em plataformas e serviços voltados para dados;
+- Criar projetos práticos utilizando Python, SQL, bancos de dados, APIs e ferramentas relacionadas ao processamento de dados;
+- Continuar desenvolvendo o projeto **Organizador de Rotinas com IA** e adicionar novos projetos ao GitHub, GitLab e portfólio;
+- Realizar cursos complementares relacionados aos principais focos técnicos;
+- Melhorar e manter atualizados os perfis do **GitHub, GitLab, LinkedIn, Instagram profissional e portfólio**;
+- Buscar uma oportunidade de **estágio ou primeira experiência profissional** na área de Tecnologia da Informação, preferencialmente relacionada a dados.
 
 ### Médio Prazo - 1 a 3 Anos
 
- - Conseguir experiência profissional;
- - Trabalhar como profissional de dados;
- - Aprender tecnologias mais avançadas;
- - Obter certificações;
- - Desenvolver projetos maiores.
+No médio prazo, o objetivo é transformar a base adquirida no curto prazo em experiência prática e aprofundamento técnico na área de Engenharia de Dados. Os principais focos continuarão sendo **Python, SQL, Processamento de Dados, Armazenamento de Dados e Computação em Nuvem**, avançando para ferramentas e arquiteturas utilizadas profissionalmente.
+
+**Objetivos:**
+
+- Adquirir experiência profissional em uma área relacionada a **dados ou Tecnologia da Informação**;
+- Aprofundar o uso de **Python** para processamento, automação e desenvolvimento de soluções de dados;
+- Evoluir os conhecimentos em **SQL e bancos de dados**, trabalhando com consultas mais complexas, otimização e modelagem;
+- Aprofundar os conhecimentos em **Processamento de Dados**, incluindo pipelines, ETL/ELT e transformação de dados;
+- Desenvolver conhecimentos mais avançados em **Armazenamento de Dados**, incluindo Data Warehouse, Data Lake e arquiteturas de dados;
+- Aprofundar os conhecimentos em **Computação em Nuvem**, principalmente em plataformas e serviços voltados para armazenamento, processamento e gerenciamento de dados;
+- Estudar e utilizar ferramentas presentes no mercado de Engenharia de Dados, como **Apache Spark, Databricks e Airflow**;
+- Desenvolver projetos maiores e mais completos, utilizando diferentes etapas de um fluxo de dados;
+- Buscar certificações relacionadas a **Cloud, Dados e Engenharia de Dados**;
+- Evoluir profissionalmente de uma posição inicial para uma função com maior participação em projetos de dados.
 
 ### Longo Prazo - 3 a 5+ Anos
 
-Exemplos:
- - Tornar-se Engenheira de Dados;
- - Alcançar determinada especialização;
- - Trabalhar com Cloud/Data Engineering;
- - Assumir posições de maior responsabilidade.
+No longo prazo, o objetivo é consolidar a carreira como **Engenheira de Dados**, utilizando os conhecimentos desenvolvidos em programação, bancos de dados, processamento, armazenamento e computação em nuvem para atuar em projetos de maior complexidade.
+
+**Objetivos:**
+
+- Tornar-se **Engenheira de Dados**;
+- Especializar-se em **Data Engineering e Computação em Nuvem**;
+- Trabalhar com construção, manutenção e evolução de **pipelines e plataformas de dados**;
+- Participar de projetos envolvendo grandes volumes de dados e arquiteturas de maior complexidade;
+- Aprofundar conhecimentos em tecnologias de processamento distribuído, armazenamento e plataformas de dados em nuvem;
+- Assumir posições com maior responsabilidade técnica em projetos de dados;
+- Continuar acompanhando a evolução das tecnologias e ferramentas utilizadas no mercado;
+- Construir uma trajetória profissional sólida e de longo prazo na área de **Engenharia de Dados**.
 
 ## 3.6 PDI - Plano de Desenvolvimento Individual
 
