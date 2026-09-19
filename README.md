@@ -211,7 +211,7 @@ O feedback precisa abordar:
 
 * **Descrição do perfil:**
 
-Este perfil está em constante construção e representa minha trajetória acadêmica e profissional na área de **Tecnologia da Informação**.
+Este perfil está em constante construção e representa minha trajetória acadêmica e profissional na área de **Engenharia de Dados**.
 
 Sou **Técnica em Desenvolvimento de Sistemas pela ETEC** e atualmente estudante de **Análise e Desenvolvimento de Sistemas na UNICID**.
 
