@@ -564,7 +564,7 @@ O feedback precisa abordar:
 ## 4.3 Instagram Profissional
 
 <p align="center">
-  <img src="./assets/instagram-valter.jpg" alt="Foto de Perfil do Instagram" width="160" style="border-radius: 50%;">
+  <img src="./instagram-valter.png" alt="Foto de Perfil do Instagram" width="160">
 </p>
 
 * **Bio:** > *ADS @ UNICID | Foco em Engenharia de Dados & IA 📊 | Construindo soluções com Python & SQL 🐍 | Projetos no GitHub ⬇️*
