@@ -563,6 +563,10 @@ O feedback precisa abordar:
 
 ## 4.3 Instagram Profissional
 
+<p align="center">
+  <img src="./assets/instagram-valter.jpg" alt="Foto de Perfil do Instagram" width="160" style="border-radius: 50%;">
+</p>
+
 * **Bio:** > *ADS @ UNICID | Foco em Engenharia de Dados & IA 📊 | Construindo soluções com Python & SQL 🐍 | Projetos no GitHub ⬇️*
 * **Foto de perfil:** Foto recente com enquadramento profissional (rosto visível, boa iluminação e fundo neutro), mantendo a identidade visual utilizada no LinkedIn e GitHub.
 * **Informações profissionais:** Destaque para a formação acadêmica em Análise e Desenvolvimento de Sistemas (UNICID) e para a transição/foco de carreira para a área de Engenharia de Dados.
